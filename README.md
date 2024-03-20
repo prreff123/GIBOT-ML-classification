@@ -4,4 +4,5 @@ train.csv,
 test.csv,
 sampleSubmission_small.csv,
 trainLabels.csv
-and the key points of the project is Data preprocessing using Hash fields, Feature extraction, Model Building ,Prediction
+and the key points of the project is Data preprocessing using Hash fields, Feature extraction, Model Building ,Prediction.
+I have done this project on jupyter notebook platform
